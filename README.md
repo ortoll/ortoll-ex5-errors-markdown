@@ -2,27 +2,27 @@
 
 Descobreix els millors jocs ** classics** en un sol lloc.
 
-##Plataformes disponibles:
--PC
--Arcade
--Mòbil
+## Plataformes disponibles:
+- PC
+- Arcade
+- Mòbil
 
-##Exemples de Jocs:
+## Exemples de Jocs:
 1. DonkeyKong
-2.Pac-Man
+2. Pac-Man
 3. Zelda
-4.Mega Man
+4. Mega Man
 
-##Novetats
--Competiciò online
+## Novetats
+- Competiciò online
 - Rankings globals
--**Editor de nivells*
+- ** Editor de nivells**
 
-##Packs de Subscripció
-|Pack|Preu
-|---|---
-Bàsic|Gratis
-Premium|5€/mes
+## Packs de Subscripció
+|Pack   |Preu  |
+|-------|----  |
+|Bàsic  |Gratis|
+|Premium|5€/mes|
 
 ##Característiques destacades:
 -Gràfics 8-bits autèntics
