@@ -1,6 +1,6 @@
 # Retro Gaming World
 
-Descobreix els millors jocs ** classics** en un sol lloc.
+Descobreix els millors jocs **classics** en un sol lloc.
 
 ## Plataformes disponibles:
 - PC
@@ -16,7 +16,7 @@ Descobreix els millors jocs ** classics** en un sol lloc.
 ## Novetats
 - Competiciò online
 - Rankings globals
-- ** Editor de nivells**
+- **Editor de nivells**
 
 ## Packs de Subscripció
 |Pack   |Preu  |
@@ -36,7 +36,7 @@ RAM: 512MB
 Windows, MacOS, Linux
 
 ## Drets d'autor
-** RetroGaming World 2025**
+**RetroGaming World 2025**
 
 ## Suport
 Servei tècnic disponible 24h
